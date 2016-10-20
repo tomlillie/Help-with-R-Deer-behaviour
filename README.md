@@ -1,5 +1,11 @@
 # Help-with-R-Deer-behaviour
 I have managed to import my data into R but now I am stuck. Please can someone tell me how to do a scatter plot but using more than two columns. Please help!!!
+
+I am new to github and not really sure the following table will show up correctly. Please email tomlillie1990@gmail.com and I can send you the text file.
+
+
+
+
 Species	Sex	Juvenile or Adult	Defecating (sec)	Walking away (secs)	Walking towards (secs)	Grazing (secs)	Lying down (secs)	Watching (secs)	Standing (secs)	Self grooming (secs)	Roaring (secs)	Chasing female (secs)	Chasing juvenile (secs)	Allogroom (secs)	Chased by male (secs)
 Red	Male	Juvenile	30	60	0	30	1020	0	60	0	0	0	0	0	0
 Red	Male	Juvenile	0	90	0	930	0	60	90	30	0	0	0	0	0
